@@ -1,4 +1,4 @@
-<h1> DevOps: Simple Survey Form deployed to kubernetes using Jenkins as CI/CD <h1> <br>
+<h1> DevOps: Simple Survey Form deployed to kubernetes using Jenkins as CI/CD <h1> 
 <h2>-Avinash Murugappan <h2>
 
 <p1> The Steps are as follows:<br>
