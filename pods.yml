@@ -1,0 +1,16 @@
+# Avinash
+
+#This file create the pods for kubernetes 
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nodeapp
+  labels:
+    app: nodeapp
+spec:
+  containers:
+    - name: nodeapp
+      image: swe645/assignment2:tagVersion
+      ports:
+        - containerPort: 8080
